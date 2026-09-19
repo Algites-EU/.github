@@ -1,2 +1,2 @@
 # .github
-Algites Orgnaization Data Repository
+Algites Organization Data Repository
