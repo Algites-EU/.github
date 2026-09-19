@@ -2,7 +2,7 @@
 
 Algites develops software, frameworks, libraries, development tools, and supporting infrastructure.
 
-A part of the Algites ecosystem is developed and published as open-source software. Public source repositories are available on the root of [Algites-EU GitHub Public Repositories](https://github.com/orgs/Algites-EU/repositories).
+A part of the Algites ecosystem is developed and published as open-source software. Public source repositories are available on the root of [Algites-EU GitHub Public Repositories](https://github.com/orgs/Algites-EU/repositories?q=visibility%3Apublic+archived%3Afalse).
 
 ## Open Source
 
