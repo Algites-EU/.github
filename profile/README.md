@@ -8,7 +8,7 @@ A part of the Algites ecosystem is developed and published as open-source softwa
 
 Algites open-source projects include reusable libraries, frameworks, development and build infrastructure, tools, and selected application components.
 
-Licensing information is provided by the individual repositories and artifacts. Different parts of the Algites ecosystem may use different open-source licenses depending on the nature of the material.
+Licensing information is provided by the individual repositories and artifacts. As a general rule, software source code and other executable or build-related materials published as part of Algites open-source projects are licensed under the Apache License 2.0. Documentation, architectural descriptions, specifications, diagrams, and other non-software materials are generally licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Individual repositories may contain materials under both licenses; the applicable license is identified by the repository or file-specific licensing information.
 
 ## Open Source Infrastructure
 
